@@ -1,49 +1,26 @@
 {
-  "action": "edited",
-  "changes": {
-    "body": {
-      "from": "<pre><yamldata>\r\nDa_chi_offerta: Università Bocconi e Università di Harvard\r\nDescrizione: \"Progetto TOP (Tutoring Online Project)\\n\\\r\n  \\n \\n\\nSiamo un team di ricercatori dell’Università Bocconi e dell’Università di\\\r\n  \\ Harvard. Stiamo cercando di aiutare le scuole medie italiane a trovare tutor per\\\r\n  \\ gli studenti in difficoltà durante queste settimane di chiusura delle scuole.\\\r\n  \\ A questa iniziativa partecipano anche l’Università Bicocca, l’Università Statale\\\r\n  \\ di Milano e altre Università.\\n\\n \\n\\nQuesta fase di attività didattiche online\\\r\n  \\ rappresenta una sfida molto difficile da affrontare per le scuole e le famiglie\\\r\n  \\ italiane. Numerose ricerche suggeriscono che l’istruzione online può avere conseguenze\\\r\n  \\ negative per l’apprendimento di studenti le cui famiglie non possono supportarli\\\r\n  \\ nella didattica a distanza, andando cosi a incrementare le disuguaglianze.\\\r\n  \\ \\n\\nSei interessato/a ad aiutare dei ragazzi delle scuole medie attualmente in\\\r\n  \\ difficoltà a fare i compiti e rimanere al passo con il resto della classe? Se\\\r\n  \\ sì, il progetto TOP fa per te!\\n\\nL’impegno previsto è di 3 ore alla settimana\\\r\n  \\ per ciascun modulo di tutoring (potrai scegliere se offrire uno o più moduli).\\\r\n  \\ La durata è per il periodo di chiusura delle scuole, e comunque non oltre la fine\\\r\n  \\ di Maggio.\\n\\n \\n\\nI presidi e gli insegnanti delle scuole identificheranno i\\\r\n  \\ ragazzi più bisognosi di un sostegno, e noi metteremo in contatto i tutor con\\\r\n  \\ le scuole, in base alle necessità e alla disponibilità espresse. L’impatto dell’attività\\\r\n  \\ fatta con il tutor verrà valutato in un progetto di ricerca scientifica.\\n\\n \\n\\\r\n  \\nVuoi aderire? Può essere un bel modo di dare una mano in questa situazione di\\\r\n  \\ emergenza! Per ulteriori informazioni inviare una email a bicoccaconlescuole@unimib.it\"\r\nDestinatari: Studenti/Studentesse\r\nEmail: bicoccaconlescuole@unimib.it\r\nLink: https://www.unimib.it/sites/default/files/allegati/progetto_tutor-bicocca_31.03.2020.pdf\r\nNatura: didattica\r\nTitolo: Progetto TOP (Tutoring Online Project)\r\nPosizione: 45.5183542 9.2139472\r\nregione_manuale: tutte\r\n</yamldata></pre>"
-    }
-  },
+  "action": "labeled",
   "issue": {
     "assignee": null,
     "assignees": [],
     "author_association": "MEMBER",
-    "body": "<pre><yamldata>\r\nDa_chi_offerta: Università Bocconi e Università di Harvard\r\nDescrizione: \"Progetto TOP (Tutoring Online Project)\\n\\\r\n  \\n \\n\\nSiamo un team di ricercatori dell’Università Bocconi e dell’Università di\\\r\n  \\ Harvard. Stiamo cercando di aiutare le scuole medie italiane a trovare tutor per\\\r\n  \\ gli studenti in difficoltà durante queste settimane di chiusura delle scuole.\\\r\n  \\ A questa iniziativa partecipano anche l’Università Bicocca, l’Università Statale\\\r\n  \\ di Milano e altre Università.\\n\\n \\n\\nQuesta fase di attività didattiche online\\\r\n  \\ rappresenta una sfida molto difficile da affrontare per le scuole e le famiglie\\\r\n  \\ italiane. Numerose ricerche suggeriscono che l’istruzione online può avere conseguenze\\\r\n  \\ negative per l’apprendimento di studenti le cui famiglie non possono supportarli\\\r\n  \\ nella didattica a distanza, andando cosi a incrementare le disuguaglianze.\\\r\n  \\ \\n\\nSei interessato/a ad aiutare dei ragazzi delle scuole medie attualmente in\\\r\n  \\ difficoltà a fare i compiti e rimanere al passo con il resto della classe? Se\\\r\n  \\ sì, il progetto TOP fa per te!\\n\\nL’impegno previsto è di 3 ore alla settimana\\\r\n  \\ per ciascun modulo di tutoring (potrai scegliere se offrire uno o più moduli).\\\r\n  \\ La durata è per il periodo di chiusura delle scuole, e comunque non oltre la fine\\\r\n  \\ di Maggio.\\n\\n \\n\\nI presidi e gli insegnanti delle scuole identificheranno i\\\r\n  \\ ragazzi più bisognosi di un sostegno, e noi metteremo in contatto i tutor con\\\r\n  \\ le scuole, in base alle necessità e alla disponibilità espresse. L’impatto dell’attività\\\r\n  \\ fatta con il tutor verrà valutato in un progetto di ricerca scientifica.\\n\\n \\n\\\r\n  \\nVuoi aderire? Può essere un bel modo di dare una mano in questa situazione di\\\r\n  \\ emergenza! \r\nPer ulteriori informazioni inviare una email a bicoccaconlescuole@unimib.it\"\r\nDestinatari: Studenti/Studentesse\r\nLink: https://www.unimib.it/sites/default/files/allegati/progetto_tutor-bicocca_31.03.2020.pdf\r\nNatura: didattica\r\nTitolo: Progetto TOP (Tutoring Online Project)\r\nPosizione: 45.5183542 9.2139472\r\nregione_manuale: tutte\r\n</yamldata></pre>",
+    "body": "<pre><yamldata>\nDa_chi_offerta: ImpactHub Network\nDescrizione: \"Per affrontare il Covid-19 insieme. Volontà e strumenti per collaborare\\n\\\n  \\nNoi rete degli ImpactHub - 100 comunità in 50 paesi - pensiamo che, nonostante\\\n  \\ le circostanze, la responsabilità che abbiamo gli uni verso gli altri dovrebbe\\\n  \\ ancora superare ogni nostra paura. Insieme possiam fare di più e di meglio.\\n\\n\\\n  Possiamo ancora collaborare e noi vogliamo collaborare dovunque possiamo e con chiunque\\\n  \\ possiamo, per mettere la salute delle persone davanti a tutto.\\n\\nAggiorniamo\\\n  \\ costantemente gli strumenti [in lingua Inglese] per aiutarvi ad mandare avanti\\\n  \\ la vostra attività anche in questa fare di intenso cambiamento:\\n\\n    Managing\\\n  \\ Remote Teams\\n    A Toolkit for virtual community builders\\n    Facilitating Remote\\\n  \\ Workshops\\n\\n\\nWith love for people and planet\"\nDestinatari: Imprenditori ed altre organizzazioni\nLink: https://impacthub.net/our-vision-and-call-for-collaboration-in-the-face-of-covid-19/\nNatura: sostegno-lavor\nPosizione: 48.199449 16.343923 0 0\nTitolo: Per affrontare il Covid-19 insieme. Volontà e strumenti per collaborare\n</yamldata></pre>",
     "closed_at": null,
     "comments": 0,
-    "comments_url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/issues/2252/comments",
-    "created_at": "2020-04-04T13:57:59Z",
-    "events_url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/issues/2252/events",
-    "html_url": "https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2252",
-    "id": 593875624,
+    "comments_url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/issues/2895/comments",
+    "created_at": "2020-05-03T10:26:49Z",
+    "events_url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/issues/2895/events",
+    "html_url": "https://github.com/emergenzeHack/covid19italia_segnalazioni/issues/2895",
+    "id": 611379744,
     "labels": [
       {
-        "color": "3f79a3",
+        "color": "7bfcb3",
         "default": false,
         "description": "",
-        "id": 1902732826,
-        "name": "Bollettino",
-        "node_id": "MDU6TGFiZWwxOTAyNzMyODI2",
-        "url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/labels/Bollettino"
-      },
-      {
-        "color": "98c5f2",
-        "default": false,
-        "description": "",
-        "id": 1897446778,
-        "name": "Didattica a distanza e-learning",
-        "node_id": "MDU6TGFiZWwxODk3NDQ2Nzc4",
-        "url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/labels/Didattica%20a%20distanza%20e-learning"
-      },
-      {
-        "color": "2d18ba",
-        "default": false,
-        "description": "",
-        "id": 1897446151,
-        "name": "Richiesta aiuto",
-        "node_id": "MDU6TGFiZWwxODk3NDQ2MTUx",
-        "url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/labels/Richiesta%20aiuto"
+        "id": 1901236861,
+        "name": "Sostegno lavoro e imprese",
+        "node_id": "MDU6TGFiZWwxOTAxMjM2ODYx",
+        "url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/labels/Sostegno%20lavoro%20e%20imprese"
       },
       {
         "color": "8fea10",
@@ -64,16 +41,16 @@
         "url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/labels/form"
       }
     ],
-    "labels_url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/issues/2252/labels{/name}",
+    "labels_url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/issues/2895/labels{/name}",
     "locked": false,
     "milestone": null,
-    "node_id": "MDU6SXNzdWU1OTM4NzU2MjQ=",
-    "number": 2252,
+    "node_id": "MDU6SXNzdWU2MTEzNzk3NDQ=",
+    "number": 2895,
     "repository_url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni",
     "state": "open",
-    "title": "Università Bicocca e Harvard cercano volontari per Progetto TOP (Tutoring Online Project): tutoraggio a distanza degli studenti svantaggiati delle scuole medie ",
-    "updated_at": "2020-04-05T10:01:42Z",
-    "url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/issues/2252",
+    "title": "Le attività della rete ImpactHub a sostegno di imprese e organizzazioni colpite dall’emergenza Covid-19",
+    "updated_at": "2020-05-04T17:04:11Z",
+    "url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/issues/2895",
     "user": {
       "avatar_url": "https://avatars3.githubusercontent.com/u/62019251?v=4",
       "events_url": "https://api.github.com/users/ehack-italy/events{/privacy}",
@@ -94,6 +71,15 @@
       "type": "User",
       "url": "https://api.github.com/users/ehack-italy"
     }
+  },
+  "label": {
+    "color": "8fea10",
+    "default": false,
+    "description": "",
+    "id": 1897424674,
+    "name": "accettato",
+    "node_id": "MDU6TGFiZWwxODk3NDI0Njc0",
+    "url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/labels/accettato"
   },
   "organization": {
     "avatar_url": "https://avatars1.githubusercontent.com/u/9900828?v=4",
@@ -130,8 +116,8 @@
     "downloads_url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/downloads",
     "events_url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/events",
     "fork": false,
-    "forks": 2,
-    "forks_count": 2,
+    "forks": 3,
+    "forks_count": 3,
     "forks_url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/forks",
     "full_name": "emergenzeHack/covid19italia_segnalazioni",
     "git_commits_url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/git/commits{/sha}",
@@ -161,8 +147,8 @@
     "name": "covid19italia_segnalazioni",
     "node_id": "MDEwOlJlcG9zaXRvcnkyNDU4OTQwMTA=",
     "notifications_url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/notifications{?since,all,participating}",
-    "open_issues": 1596,
-    "open_issues_count": 1596,
+    "open_issues": 2141,
+    "open_issues_count": 2141,
     "owner": {
       "avatar_url": "https://avatars1.githubusercontent.com/u/9900828?v=4",
       "events_url": "https://api.github.com/users/emergenzeHack/events{/privacy}",
@@ -185,11 +171,11 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/pulls{/number}",
-    "pushed_at": "2020-04-05T09:54:52Z",
+    "pushed_at": "2020-05-04T16:58:57Z",
     "releases_url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/releases{/id}",
-    "size": 24,
+    "size": 28,
     "ssh_url": "git@github.com:emergenzeHack/covid19italia_segnalazioni.git",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "stargazers_url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/stargazers",
     "statuses_url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/subscribers",
@@ -198,10 +184,10 @@
     "tags_url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/tags",
     "teams_url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/teams",
     "trees_url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni/git/trees{/sha}",
-    "updated_at": "2020-04-04T12:51:07Z",
+    "updated_at": "2020-04-10T12:14:53Z",
     "url": "https://api.github.com/repos/emergenzeHack/covid19italia_segnalazioni",
-    "watchers": 3,
-    "watchers_count": 3
+    "watchers": 4,
+    "watchers_count": 4
   },
   "sender": {
     "avatar_url": "https://avatars3.githubusercontent.com/u/21283775?v=4",
