@@ -60,9 +60,10 @@ jobs:
         mkdir -m 700 ~/.ssh
         echo "${{ secrets.SSH_KEY }}" > ~/.ssh/id_ed25519
         chmod 0600 ~/.ssh/id_ed25519
+        ls -la
         git fetch origin
         git reset --hard origin/master
         ../../scripts/github2CSV.py issues.csv issuesjson.json issues.geojson ../../_utilities ${{ secrets.ACCEPTED_LABEL }}
+        git status
         wc -l issues.csv
-        wc -l issuesjson.json
-        wc -l issues.geojson
+        ls -la 
