@@ -46,13 +46,13 @@ jobs:
 
     - name: Install packages with pip
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
       run: |
         pip install lxml PyGithub pyyaml shapely pandas geopandas
 
     - name: Recreate CSV, JSON and GeoJSON and push them
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
       working-directory:
         _data/machgen
       run: |
