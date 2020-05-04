@@ -17,7 +17,7 @@ jobs:
 
     - name: Get data repository name
       run: |
-        echo "::set-output name=repo::covid19italia_data"
+        echo "::set-output name=repo::emergenzeHack/covid19italia_data"
       id: get_data_repo
 
     - name: Checkout ${{steps.get_data_repo.outputs.repo }}
