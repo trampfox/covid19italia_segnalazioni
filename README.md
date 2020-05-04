@@ -8,4 +8,5 @@ Questo repository è per gestire le segnalazioni di covid19italia tramite Issues
 
 Non si tratta di repository adibito a codice.
 
+
 Controllare il branch "cacheHack" per la GitHub action che innesca le generazioni dei CSV.
