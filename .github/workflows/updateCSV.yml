@@ -17,7 +17,7 @@ jobs:
 
     - name: Get data repository name
       run: |
-        echo "::set-output name=repo::${GITHUB_REPOSITORY%_*}_data"
+        echo "::set-output name=repo::covid19italia_data"
       id: get_data_repo
 
     - name: Checkout ${{steps.get_data_repo.outputs.repo }}
@@ -59,11 +59,8 @@ jobs:
         mkdir -m 700 ~/.ssh
         echo "${{ secrets.SSH_KEY }}" > ~/.ssh/id_ed25519
         chmod 0600 ~/.ssh/id_ed25519
-        pushurl="git@github.com:$(git config --local remote.origin.url | sed 's;^https://github\.com/;;')"
-        git config remote.origin.pushurl "$pushurl"
         git fetch origin
         git reset --hard origin/master
         ../../scripts/github2CSV.py issues.csv issuesjson.json issues.geojson ../../_utilities ${{ secrets.ACCEPTED_LABEL }}
-        git config --local user.name "ehack-italy"
-        git config --local user.email "62019251+ehack-italy@users.noreply.github.com"
-        git commit -m "Aggiorno automaticamente dati $(date -Iseconds)" -- issues.csv issuesjson.json issues.geojson && git push || :
+        wc -l issues.csv
+        wc -l issuesjson.json
