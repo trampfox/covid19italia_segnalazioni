@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout emergenzeHack/covid19italia
+    - name: Checkout trampfox/covid19italia
       uses: actions/checkout@v2
       with:
-        repository: emergenzeHack/covid19italia
+        repository: trampfox/covid19italia
 
     - name: Get data repository name
       run: |
@@ -60,7 +60,8 @@ jobs:
         echo "${{ secrets.SSH_KEY }}" > ~/.ssh/id_ed25519
         chmod 0600 ~/.ssh/id_ed25519
         git fetch origin
-        git reset --hard origin/master
+        git reset --hard origin/492-fix-fetch-only-modified-issues
         ../../scripts/github2CSV.py issues.csv issuesjson.json issues.geojson ../../_utilities ${{ secrets.ACCEPTED_LABEL }}
         wc -l issues.csv
         wc -l issuesjson.json
+        wc -l issues.geojson
